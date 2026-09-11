@@ -1,3 +1,4 @@
+package Sep09;
 import java.util.Scanner;
 
 public class Prob1_10_09_26 {
